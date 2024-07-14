@@ -1,5 +1,6 @@
 # Machine-Learning-Lab
-This repository includes a series of Machine learning projects that are part of the Programming Machine Learning lab course curriculum from the Master's program in Data Analytics at Hildesheim Universität.
+
+This repository contains a series of machine learning projects from the Programming Machine Learning lab course, which is part of the Data Analytics Master's program at Hildesheim Universität.
 
 Content:
 
